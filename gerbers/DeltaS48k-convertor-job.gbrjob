@@ -3,14 +3,14 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.0.10)"
+      "Version": "7.0.1"
     },
-    "CreationDate": "2023-02-24T21:34:05+03:00"
+    "CreationDate": "2023-06-05T11:34:12+03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "Ver2.2",
-      "GUID": "56657232-2e32-42e6-9b69-6361645f7063",
+      "Name": "DeltaS48k-convertor",
+      "GUID": "44656c74-6153-4343-986b-2d636f6e7665",
       "Revision": "rev?"
     },
     "Size": {
@@ -32,37 +32,37 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "Ver2.2-F_Cu.gbr",
+      "Path": "DeltaS48k-convertor-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Ver2.2-B_Cu.gbr",
+      "Path": "DeltaS48k-convertor-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Ver2.2-F_Silkscreen.gbr",
+      "Path": "DeltaS48k-convertor-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Ver2.2-B_Silkscreen.gbr",
+      "Path": "DeltaS48k-convertor-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Ver2.2-F_Mask.gbr",
+      "Path": "DeltaS48k-convertor-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Ver2.2-B_Mask.gbr",
+      "Path": "DeltaS48k-convertor-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Ver2.2-Edge_Cuts.gbr",
+      "Path": "DeltaS48k-convertor-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
