@@ -562,8 +562,8 @@
       (net 71 "A9") (pinfunction "A9") (pintype "input") (tstamp ec975efc-b3b2-4f56-94b3-e7a07f5a8d63))
     (pad "56" thru_hole oval (at -30.48 -2.54 180) (size 1.6 3) (drill 1.016) (layers "*.Cu" "*.Mask" "F.SilkS")
       (net 72 "A11") (pinfunction "A11") (pintype "input") (tstamp 0c02613f-34fe-491c-892c-9a13a5a7eee5))
-    (model "${KIPRJMOD}/3Dmodels/Edge Connector 62pin P2.54mm RS5.08mm.STEP"
-      (offset (xyz 0 0 0))
+    (model "${KIPRJMOD}/libs/edge/EDGE_CONNECTOR_ASM_no_pin.STEP"
+      (offset (xyz 3.8 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
