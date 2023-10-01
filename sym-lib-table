@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "delta_convertor")(type "KiCad")(uri "${KIPRJMOD}/libs/delta_convertor.kicad_sym")(options "")(descr ""))
-)
